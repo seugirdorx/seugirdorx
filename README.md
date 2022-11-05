@@ -1,4 +1,4 @@
-### Olá a todos, sejam bem-vindos ao meu perfil 👋
+### Bem-vindos ao meu humilde perfil 🌸
 
 <div align="center">
   <a href="https://github.com/seugirdorx">
