@@ -1,4 +1,6 @@
-### Bem-vindos ao meu perfil 🌸
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F715A7&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Amanda+%F0%9F%90%B8;Sou+desenvolvedora+J%C3%BAnior+Full+Stack)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F715A7&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Amanda+%F0%9F%90%B8;Sou+desenvolvedora+J%C3%BAnior+Full+Stack" alt="Typing SVG" /></a>
 
 
 
