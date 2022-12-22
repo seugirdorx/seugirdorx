@@ -9,7 +9,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seugirdorx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     </div>
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
