@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Bem-vindos+ao+meu+perfil++%F0%9F%8C%B8;Meu+nome+%C3%A9+Amanda+Rocha+%F0%9F%90%B8;Sou+Dev+Web+Junior+Fullstack+%F0%9F%92%BB" alt="Typing SVG" /></a>
@@ -56,6 +56,4 @@
     
   ![Snake animation](https://github.com/seugirdorx/seugirdorx/blob/output/github-contribution-grid-snake.svg)
 
-
-  
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
