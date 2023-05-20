@@ -32,9 +32,7 @@
  
   <br>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=seugirdorx&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  <br>
+ 
   
   <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Entre+em+contato+comigo" alt="Typing SVG" /></a>
