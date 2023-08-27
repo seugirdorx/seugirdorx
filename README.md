@@ -50,8 +50,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{seugirdorx}/count.svg" /></p> 
 <br>
   </div>
-    
-    
-  ![Snake animation](https://github.com/seugirdorx/seugirdorx/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
