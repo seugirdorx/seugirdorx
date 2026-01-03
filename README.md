@@ -3,14 +3,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Bem-vindos+ao+meu+perfil++%F0%9F%8C%B8;Meu+nome+%C3%A9+Amanda+Rocha+%F0%9F%90%B8;Sou+Dev+Web+Junior+Fullstack+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
-
-
-<div align="center">
-  <a href="https://github.com/seugirdorx">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layonss&layout=compact&langs_count=7&theme=radical&hide=portugol,procfile"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seugirdorx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- </div>
-  
   <br>
   
   <div align="center">
@@ -46,10 +38,5 @@
     
  
 <br>
-   <div align="center"> 
-  <p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{seugirdorx}/count.svg" /></p> 
-<br>
-  </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
