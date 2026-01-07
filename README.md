@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header" />
 
 <div align="center">
-  <p>Dev Web Fullstack Júnior | Designer em formação 🎨</p>
+  <p>Dev Web Fullstack | Designer em formação 🎨</p>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FE428E&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo;Design+e+tecnologia+caminhando+juntos" alt="Typing SVG" />
 </div>
@@ -11,7 +11,7 @@
 
 ## 💼 Sobre Mim
 
-Sou **Desenvolvedora Web Fullstack Júnior** e também atuo com **Design**, unindo estética e funcionalidade na criação de soluções digitais.
+Sou **Desenvolvedora Web Fullstack** e também atuo com **Design**, unindo estética e funcionalidade na criação de soluções digitais.
 
 Atualmente curso **Design Industrial na UERJ (ESDI)**, onde aprofundo meus conhecimentos em **comunicação visual, experiência do usuário e processos criativos**, aplicando esses aprendizados diretamente no desenvolvimento de interfaces e produtos digitais.
 
